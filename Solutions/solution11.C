@@ -17,6 +17,6 @@ void main()
 			c++;
 			printf("%c",s[i]);
 		}
-	}
+	}//
 	printf("\n number of vowels in the string: %d",c);
 	printf("\n");
